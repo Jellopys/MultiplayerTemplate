@@ -1,0 +1,1206 @@
+﻿Log file open, 12/20/20 11:26:59
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MultiplayerTemplate
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192000
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.47
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+[2020.12.20-10.26.59:771][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.20-10.26.59:771][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+[2020.12.20-10.26.59:771][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+[2020.12.20-10.26.59:786][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:786][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.20-10.26.59:786][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.20-10.26.59:786][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:786][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.20-10.26.59:786][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:786][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.20-10.26.59:786][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.20-10.26.59:786][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.20-10.26.59:787][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.20-10.26.59:787][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.20-10.26.59:787][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.20-10.26.59:788][  0]LogHAL: Display: Platform has ~ 16 GB [17074405376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.20-10.26.59:788][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.20-10.26.59:788][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.20-10.26.59:789][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.20-10.26.59:789][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.20-10.26.59:789][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.20-10.26.59:789][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.20-10.26.59:789][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.20-10.26.59:789][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Config/Windows/Engine.ini]
+[2020.12.20-10.26.59:789][  0]LogInit: Computer: Z370-G-ITXAC-1
+[2020.12.20-10.26.59:789][  0]LogInit: User: richa
+[2020.12.20-10.26.59:789][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.12.20-10.26.59:789][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.20-10.26.59:789][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.20-10.26.59:789][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.20-10.26.59:789][  0]LogMemory: Process Physical Memory: 140.78 MB used, 140.78 MB peak
+[2020.12.20-10.26.59:789][  0]LogMemory: Process Virtual Memory: 129.45 MB used, 129.45 MB peak
+[2020.12.20-10.26.59:789][  0]LogMemory: Physical Memory: 6965.67 MB used,  9317.75 MB free, 16283.42 MB total
+[2020.12.20-10.26.59:789][  0]LogMemory: Virtual Memory: 134205408.00 MB used,  12323.18 MB free, 134217728.00 MB total
+[2020.12.20-10.26.59:793][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.20-10.26.59:827][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.20-10.26.59:828][  0]LogInit: Using OS detected language (en-US).
+[2020.12.20-10.26.59:828][  0]LogInit: Using OS detected locale (en-SE).
+[2020.12.20-10.26.59:835][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.20-10.26.59:982][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.20-10.26.59:989][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.20-10.27.00:021][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.20-10.27.00:021][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.20-10.27.00:131][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.20-10.27.00:131][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.20-10.27.00:131][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.20-10.27.00:131][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.20-10.27.00:220][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.12.20-10.27.00:220][  0]LogD3D11RHI:       8031/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.20-10.27.00:222][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.20-10.27.00:222][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.20-10.27.00:222][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.20-10.27.00:226][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.20-10.27.00:226][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.20-10.27.00:226][  0]LogWindows: EnumDisplayDevices:
+[2020.12.20-10.27.00:226][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.12.20-10.27.00:226][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.12.20-10.27.00:227][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.20-10.27.00:227][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.12.20-10.27.00:227][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.20-10.27.00:227][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.12.20-10.27.00:227][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2020.12.20-10.27.00:227][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2020.12.20-10.27.00:227][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.12.20-10.27.00:292][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.20-10.27.00:293][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.20-10.27.00:293][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.20-10.27.00:308][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.20-10.27.00:309][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.20-10.27.00:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.20-10.27.00:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.20-10.27.00:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.20-10.27.00:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.20-10.27.00:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.20-10.27.00:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.20-10.27.00:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.20-10.27.00:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.20-10.27.00:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.20-10.27.00:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.20-10.27.00:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.20-10.27.00:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.20-10.27.00:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.20-10.27.00:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.20-10.27.00:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.20-10.27.00:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.20-10.27.00:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.20-10.27.00:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.20-10.27.00:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.20-10.27.00:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.20-10.27.00:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.20-10.27.00:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.20-10.27.00:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.20-10.27.00:692][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.20-10.27.00:698][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.20-10.27.00:742][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.20-10.27.00:742][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Intermediate/Shaders/WorkingDirectory/15456/).
+[2020.12.20-10.27.00:742][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/richa/AppData/Local/Temp/UnrealShaderWorkingDir/6A0AF9014E05574840370294B219D953/'.
+[2020.12.20-10.27.00:742][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.20-10.27.00:742][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.20-10.27.01:320][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.20-10.27.01:372][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/richa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.20-10.27.01:372][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/richa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.20-10.27.01:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.20-10.27.01:372][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.20-10.27.01:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.20-10.27.01:372][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.20-10.27.01:381][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.20-10.27.01:381][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.20-10.27.01:381][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.20-10.27.01:391][  0]LogDerivedDataCache: Speed tests for C:/Users/richa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2020.12.20-10.27.01:391][  0]LogDerivedDataCache: Display: Performance to C:/Users/richa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=298.74MBs, RandomWriteSpeed=157.40MBs. Assigned SpeedClass 'Local'
+[2020.12.20-10.27.01:391][  0]LogDerivedDataCache: Using Local data cache path C:/Users/richa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.20-10.27.01:391][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.20-10.27.01:391][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.20-10.27.01:425][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.20-10.27.01:426][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.20-10.27.01:445][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.12.20-10.27.01:623][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.20-10.27.01:623][  0]LogInit: Active device profile: [0000017160391B00][0000017160F2B080 49] Windows
+[2020.12.20-10.27.01:623][  0]LogInit: Profiles: [0000017160391B00][0000017160F2B080 49] Windows, [000001716033CD00][0000017160F33200 49] WindowsNoEditor, [0000017160390C00][0000017160F37380 49] WindowsServer, [000001716033E900][0000017160F3B500 49] WindowsClient, [0000017160392000][0000017160F2F640 49] IOS, [000001716033F600][0000017160F3F780 49] iPadAir, [0000017160392E00][0000017160F438C0 49] iPadAir2, [0000017160302D00][0000017160F4FB40 49] IPadPro, [0000017160302E00][0000017160F47B80 49] iPadAir3, [0000017160391300][0000017160F53D00 49] iPadAir4, [0000017160302700][0000017160F7E1C0 49] iPadMini2, [0000017160393200][0000017160F8A340 49] iPadMini3, [0000017160301600][0000017160FAE4C0 49] iPadMini4, [0000017160391100][0000017160FD2640 49] iPadMini5, [000001716038A600][0000017160FDA900 49] iPhone6, [000001716038A700][0000017160FD6940 49] iPodTouch6, [0000017160303500][0000017160FE2C00 49] iPhone7, [0000017160303600][0000017160FDEC40 49] iPodTouch7, [000001716038BF00][0000017160FEADC0 49] iPhone5S, [0000017160302300][0000017160FEEF40 49] iPhone6Plus, [0000017160389400][0000017160FF30C0 49] iPhone6S, [0000017160301100][0000017160FFB240 49] iPhone6SPlus, [0000017160388300][0000017160FFF3C0 49] iPhone7Plus, [0000017160300B00][0000017161003540 49] iPhoneSE, [000001716038B200][0000017160F4B680 49] iPhone8, [0000017160302600][00000171610077C0 49] iPhone8Plus, [0000017160389900][000001716100B900 49] iPhoneX, [0000017160302100][000001716100FA40 49] iPhoneXS, [000001716038A300][0000017161017BC0 49] iPhoneXSMax, [0000017160300800][000001716101BD40 49] iPhoneXR, [0000017160389B00][000001716101E200 49] iPhone11, [0000017160300C00][000001716103A380 49] iPhone11Pro, [000001716038B300][000001716103E500 49] iPhone11ProMax, [0000017160300100][0000017161042680 49] iPhoneSE2, [0000017160388500][0000017161046800 49] iPhone12Mini, [0000017160303E00][000001716104A980 49] iPhone12, [000001716038AB00][000001716106EB00 49] iPhone12Pro, [000001716038B900][0000017161072C80 49] iPhone12ProMax, [000001716033DC00][0000017161076E00 49] iPadPro105, [0000017160389D00][000001716107AF80 49] iPadPro129, [000001716033F900][000001716107F100 49] iPadPro97, [0000017160388D00][0000017161083280 49] iPadPro2_129, [000001716033C700][0000017161087400 49] iPad5, [000001716038A000][000001716108B580 49] iPad6, [000001716033CF00][000001716108F700 49] iPad7, [000001716038B500][0000017161013840 49] iPad8, [000001716033DB00][0000017161093980 49] iPadPro11, [000001716033C100][00000171610C3AC0 49] iPadPro2_11, [0000017160301C00][00000171610CBC40 49] iPadPro3_129, [000001716033E600][00000171610CE100 49] iPadPro4_129, [0000017160303400][00000171610D2280 49] AppleTV, [000001716033F700][00000171610D6400 49] AppleTV4K, [000001716038A100][00000171610DA580 49] TVOS, [000001716033DE00][00000171610DE700 49] Mac, [000001716038B800][00000171610E2880 49] MacClient, [000001716033E100][00000171610E6A00 49] MacNoEditor, [0000017160389F00][00000171610EAB80 49] MacServer, [000001716033EE00][00000171610EED00 49] Linux, [0000017160389000][00000171610F2E80 49] LinuxNoEditor, [000001716033EA00][00000171610F7000 49] LinuxAArch64NoEditor, [0000017160388800][00000171610FB180 49] LinuxClient, [000001716033E700][00000171610FF300 49] LinuxAArch64Client, [0000017160388100][0000017161103480 49] LinuxServer, [000001716033F400][0000017161107600 49] LinuxAArch64Server, [0000017160388F00][000001716110B780 49] Android, [000001716033D900][00000171610C78C0 49] Android_Low, [0000017160388200][000001716110FA00 49] Android_Mid, [000001716033D000][0000017161113B40 49] Android_High, [000001716038B400][000001716111BCC0 49] Android_Default, [000001716033EF00][000001716111E180 49] Android_Adreno4xx, [0000017160388A00][0000017161122300 49] Android_Adreno5xx_Low, [000001716033C800][0000017161126480 49] Android_Adreno5xx, [000001716038BC00][000001716112A600 49] Android_Adreno6xx, [000001716033CA00][000001716112E780 49] Android_Adreno6xx_Vulkan, [0000017160388E00][0000017161132900 49] Android_Mali_T6xx, [000001716033DF00][0000017161136A80 49] Android_Mali_T7xx, [0000017160388B00][000001716113AC00 49] Android_Mali_T8xx, [000001716033CE00][000001716113ED80 49] Android_Mali_G71, [0000017160388400][0000017161142F00 49] Android_Mali_G72, [000001716033D600][0000017161147080 49] Android_Mali_G72_Vulkan, [000001716038B700][000001716114B200 49] Android_Mali_G76, [000001716033FF00][000001716114F380 49] Android_Mali_G76_Vulkan, [000001716038A900][0000017161153500 49] Android_Mali_G77, [000001716033F100][0000017161157680 49] Android_Mali_G77_Vulkan, [000001716038BA00][000001716115B800 49] Android_Vulkan_SM5, [000001716033E200][0000017161117940 49] Android_PowerVR_G6xxx, [000001716038AC00][000001716115FA80 49] Android_PowerVR_GT7xxx, [000001716033D400][0000017161163BC0 49] Android_PowerVR_GE8xxx, [000001716038BE00][0000017161167D00 49] Android_PowerVR_GM9xxx, [000001716033C500][000001716116E1C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000017160389800][0000017161172340 49] Android_TegraK1, [000001716033FC00][00000171611764C0 49] Android_Unknown_Vulkan, [0000017160303200][000001716117A640 49] Lumin, [0000017160390300][000001716117E7C0 49] Lumin_Desktop, [0000017160302C00][0000017161182940 49] HoloLens, 
+[2020.12.20-10.27.01:703][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.20-10.27.01:703][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.20-10.27.01:703][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.20-10.27.01:703][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.20-10.27.01:703][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.20-10.27.01:729][  0]LogNetVersion: MultiplayerTemplate 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1970381037)
+[2020.12.20-10.27.02:055][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.20-10.27.02:110][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.054317 seconds
+[2020.12.20-10.27.02:114][  0]LogUObjectArray: 16838 objects as part of root set at end of initial load.
+[2020.12.20-10.27.02:114][  0]LogUObjectAllocator: 4221152 out of 0 bytes used by permanent object pool.
+[2020.12.20-10.27.02:114][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.20-10.27.02:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.20-10.27.02:325][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.20-10.27.02:444][  0]SourceControl: Source control is disabled
+[2020.12.20-10.27.02:444][  0]SourceControl: Source control is disabled
+[2020.12.20-10.27.02:446][  0]SourceControl: Source control is disabled
+[2020.12.20-10.27.02:448][  0]SourceControl: Source control is disabled
+[2020.12.20-10.27.02:450][  0]SourceControl: Source control is disabled
+[2020.12.20-10.27.02:469][  0]LogUProjectInfo: Found projects:
+[2020.12.20-10.27.02:622][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.20-10.27.02:637][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.20-10.27.02:637][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.20-10.27.02:674][  0]LogCollectionManager: Loaded 0 collections in 0.001232 seconds
+[2020.12.20-10.27.02:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Collections/' took 0.00s
+[2020.12.20-10.27.02:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Developers/richa/Collections/' took 0.00s
+[2020.12.20-10.27.02:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Collections/' took 0.00s
+[2020.12.20-10.27.02:691][  0]LogOcInput: OculusInput pre-init called
+[2020.12.20-10.27.02:699][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.20-10.27.02:699][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.20-10.27.02:735][  0]LogEngine: Initializing Engine...
+[2020.12.20-10.27.02:736][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.20-10.27.02:736][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.20-10.27.02:737][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.20-10.27.02:824][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.20-10.27.02:831][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.20-10.27.02:845][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.20-10.27.02:848][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.20-10.27.02:849][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.20-10.27.02:849][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.20-10.27.02:849][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.20-10.27.02:849][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.20-10.27.02:861][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.20-10.27.02:861][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.20-10.27.02:890][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.12.20-10.27.02:895][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.20-10.27.02:897][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.20-10.27.02:897][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.20-10.27.02:898][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.20-10.27.02:898][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.20-10.27.02:898][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.20-10.27.02:899][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.20-10.27.02:899][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.20-10.27.02:899][  0]LogInit: FAudioDevice initialized.
+[2020.12.20-10.27.02:899][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.20-10.27.02:899][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.20-10.27.02:971][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/richa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.20-10.27.02:975][  0]LogInit: Texture streaming: Enabled
+[2020.12.20-10.27.02:985][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2020.12.20-10.27.02:987][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.20-10.27.02:987][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.20-10.27.02:992][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.20-10.27.03:022][  0]LogInit: Transaction tracking system initialized
+[2020.12.20-10.27.03:037][  0]BlueprintLog: New page: Editor Load
+[2020.12.20-10.27.03:086][  0]LocalizationService: Localization service is disabled
+[2020.12.20-10.27.03:105][  0]TimingProfiler: Initialize
+[2020.12.20-10.27.03:105][  0]TimingProfiler: OnSessionChanged
+[2020.12.20-10.27.03:105][  0]LoadingProfiler: Initialize
+[2020.12.20-10.27.03:105][  0]LoadingProfiler: OnSessionChanged
+[2020.12.20-10.27.03:105][  0]NetworkingProfiler: Initialize
+[2020.12.20-10.27.03:105][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.20-10.27.03:105][  0]MemoryProfiler: Initialize
+[2020.12.20-10.27.03:105][  0]MemoryProfiler: OnSessionChanged
+[2020.12.20-10.27.03:215][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.20-10.27.03:215][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.20-10.27.03:322][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/' took 0.00s
+[2020.12.20-10.27.03:467][  0]SourceControl: Source control is disabled
+[2020.12.20-10.27.03:467][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.492
+[2020.12.20-10.27.03:467][  0]Cmd: MAP LOAD FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.20-10.27.03:467][  0]LightingResults: New page: Lighting Build
+[2020.12.20-10.27.03:467][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-10.27.03:467][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-10.27.03:468][  0]MapCheck: New page: Map Check
+[2020.12.20-10.27.03:468][  0]LightingResults: New page: Lighting Build
+[2020.12.20-10.27.03:473][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.20-10.27.03:665][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2020.12.20-10.27.03:666][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.20-10.27.03:666][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.20-10.27.03:672][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.20-10.27.03:672][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.20-10.27.03:672][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2020.12.20-10.27.03:672][  0]LogFileHelpers: Loading map 'MainMenu' took 0.206
+[2020.12.20-10.27.03:673][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.700
+[2020.12.20-10.27.03:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-10.27.03:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-10.27.03:859][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-10.27.03:864][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.20-10.27.03:894][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3604 classes and 863 folders.
+[2020.12.20-10.27.03:900][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.20-10.27.03:910][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.20-10.27.03:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.20-10.27.03:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2020.12.20-10.27.03:918][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.20-10.27.03:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.20-10.27.03:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2020.12.20-10.27.03:923][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.20-10.27.03:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:923][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.20-10.27.03:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2020.12.20-10.27.03:927][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.20-10.27.03:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.20-10.27.03:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2020.12.20-10.27.03:933][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.20-10.27.03:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.20-10.27.03:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2020.12.20-10.27.03:937][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.20-10.27.03:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.20-10.27.03:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2020.12.20-10.27.03:942][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.20-10.27.03:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.20-10.27.03:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2020.12.20-10.27.03:950][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.20-10.27.03:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.20-10.27.03:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2020.12.20-10.27.03:956][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.20-10.27.03:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.20-10.27.03:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2020.12.20-10.27.03:961][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.20-10.27.03:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.20-10.27.03:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2020.12.20-10.27.03:965][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.20-10.27.03:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.20-10.27.03:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2020.12.20-10.27.03:974][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.20-10.27.03:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.20-10.27.03:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2020.12.20-10.27.03:980][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.20-10.27.03:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.20-10.27.03:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2020.12.20-10.27.03:985][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.20-10.27.03:985][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:985][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.20-10.27.03:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2020.12.20-10.27.03:989][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.20-10.27.03:989][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.20-10.27.03:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2020.12.20-10.27.03:994][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.20-10.27.03:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.20-10.27.03:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2020.12.20-10.27.03:999][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.20-10.27.03:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.03:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.20-10.27.03:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2020.12.20-10.27.04:005][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.20-10.27.04:005][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:005][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.20-10.27.04:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2020.12.20-10.27.04:010][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.20-10.27.04:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.20-10.27.04:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2020.12.20-10.27.04:017][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.20-10.27.04:017][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:017][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.20-10.27.04:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2020.12.20-10.27.04:022][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.20-10.27.04:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.20-10.27.04:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2020.12.20-10.27.04:027][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.20-10.27.04:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.20-10.27.04:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2020.12.20-10.27.04:033][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.20-10.27.04:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.20-10.27.04:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2020.12.20-10.27.04:038][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.20-10.27.04:038][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:038][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.20-10.27.04:038][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2020.12.20-10.27.04:042][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.20-10.27.04:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.20-10.27.04:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2020.12.20-10.27.04:047][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.20-10.27.04:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.20-10.27.04:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.20-10.27.04:047][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2020.12.20-10.27.04:205][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.20-10.27.04:214][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.12.20-10.27.04:361][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.20-10.27.04:363][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.20-10.27.04:372][  0]LogSlate: Took 0.005667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.20-10.27.04:507][  0]LogRenderer: Reallocating scene render targets to support 1004x556 Format 10 NumSamples 1 (Frame:1).
+[2020.12.20-10.27.04:632][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.12.20-10.27.04:632][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2020.12.20-10.27.04:632][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2020.12.20-10.27.04:632][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2020.12.20-10.27.04:632][  0]LogLoad: (Engine Initialization) Total time: 5.66 seconds
+[2020.12.20-10.27.04:632][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.20-10.27.04:632][  0]LogInit: First time updating LLM stats...
+[2020.12.20-10.27.04:667][  0]LogAssetRegistry: Asset discovery search completed in 3.2222 seconds
+[2020.12.20-10.27.04:668][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.20-10.27.04:685][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.20-10.27.05:341][  2]LogSlate: Took 0.004856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.20-10.27.19:588][915]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.20-10.27.19:601][915]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.27.19:956][915]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2020.12.20-10.27.20:899][915]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.20-10.28.20:439][ 35]LogSlate: Took 0.014434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.20-10.29.31:945][339]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.29.31:987][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.12.20-10.29.32:467][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.29.32:483][390]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenuD81D10994FBF53C104A165914F1971E1.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.29.32:493][390]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.29.32:493][390]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.29.58:500][231]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-10.29.58:970][232]LogSlate: Took 0.005930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.20-10.30.57:439][747]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-10.30.57:485][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.12.20-10.30.57:525][747]LogSlate: Took 0.009080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.20-10.30.57:940][793]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM8B449F674F85C9BDDBA17C86E2E8D020.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-10.30.57:955][793]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-10.30.57:955][793]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-10.31.13:846][683]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-10.31.13:885][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.12.20-10.31.15:177][827]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM991C478B48021EDDC4D6A9A4DB95F43D.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-10.31.15:190][827]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-10.31.15:190][827]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-10.32.00:018][185]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer
+[2020.12.20-10.32.03:333][533]LogSlate: Window 'ConnectedPlayer' being destroyed
+[2020.12.20-10.32.20:478][570]LogSlate: Took 0.005893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.12.20-10.32.28:734][533]BlueprintLog: New page: Compile ConnectedPlayer
+[2020.12.20-10.32.28:765][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.12.20-10.32.29:123][569]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/ConnectedPlayerE9DD1F7C4EB0B675FC80A9B44F050925.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/ConnectedPlayer.uasset'
+[2020.12.20-10.32.29:132][569]AssetCheck: New page: Asset Save: ConnectedPlayer
+[2020.12.20-10.32.29:132][569]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer
+[2020.12.20-10.32.48:822][886]BlueprintLog: New page: Compile ConnectedPlayer
+[2020.12.20-10.32.48:864][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.20-10.32.49:173][915]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/ConnectedPlayer365F150040BB00C9491B848A1A5263C8.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/ConnectedPlayer.uasset'
+[2020.12.20-10.32.49:182][915]AssetCheck: New page: Asset Save: ConnectedPlayer
+[2020.12.20-10.32.49:182][915]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer
+[2020.12.20-10.34.32:116][726]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-10.34.32:116][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-10.34.32:130][726]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-10.34.32:130][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-10.43.28:700][791]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.43.28:740][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.12.20-10.43.29:035][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.43.29:059][821]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenuBB969CBD418B2DFABA9A399DC752DD78.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.43.29:071][821]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.43.29:071][821]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.43.58:932][347]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-10.43.58:981][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.12.20-10.43.59:510][404]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM09DF27BC4BA4B3A1004D3398263C9D60.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-10.43.59:520][404]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-10.43.59:520][404]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-10.44.04:033][923]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-10.44.04:075][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.12.20-10.44.04:460][962]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM61B40B1344D421481AFBC384EEBB681A.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-10.44.04:469][962]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-10.44.04:469][962]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-10.45.50:869][411]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.45.50:905][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.12.20-10.45.51:469][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.45.51:494][470]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu7535290244A757E671FE3581597CF58F.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.45.51:506][470]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.45.51:506][470]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.48.52:983][398]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.48.53:035][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.12.20-10.48.53:535][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.48.53:560][451]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu0B772F2543F1CA41F34AED829BCA74BA.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.48.53:571][451]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.48.53:571][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.50.22:892][288]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.50.22:941][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.12.20-10.50.23:869][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.50.23:897][390]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu806F98714B3C39B54EDF07B17FE405B0.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.50.23:910][390]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.50.23:910][390]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.50.44:550][350]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.50.44:600][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.12.20-10.50.44:952][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.50.44:982][384]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenuAD5366C64848F94855A8C58F2228E71E.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.50.44:993][384]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.50.44:993][384]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.52.21:663][430]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.52.21:715][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.12.20-10.52.22:069][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.52.22:097][458]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu276944CC4F6848321AACCB8EC4B452AC.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.52.22:108][458]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.52.22:108][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.53.01:511][545]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.53.01:563][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.12.20-10.53.01:952][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.53.01:981][583]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenuDCFEE0714CC47C603C2FB687305413FB.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.53.01:992][583]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.53.01:992][583]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.54.11:351][306]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.54.11:403][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.12.20-10.54.11:853][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.54.11:884][353]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu807333CA4CC21045FEABBBAB4FEB0DD1.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.54.11:895][353]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.54.11:895][353]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.54.30:219][530]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-10.54.30:270][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.12.20-10.54.30:619][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-10.54.30:649][564]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu6BA1880F4400125C63FD649DEBCDEC46.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-10.54.30:660][564]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-10.54.30:660][564]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-10.55.21:126][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.12.20-10.55.21:127][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Levels/MainMenu' took 0.030
+[2020.12.20-10.55.21:127][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2020.12.20-10.55.21:127][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/UI/Lobby/LobbyMenu]
+[2020.12.20-10.55.21:157][731]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu_Auto112E9167945F6EDE88FF19CAAFBC925E7.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Autosaves/Game/Game/UI/Lobby/LobbyMenu_Auto1.uasset'
+[2020.12.20-10.55.21:158][731]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.12.20-11.05.23:043][813]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-11.05.23:082][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.12.20-11.05.23:471][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-11.05.23:504][846]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu81D34D484D55EECB01113D832A3BF137.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-11.05.23:516][846]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-11.05.23:516][846]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-11.05.28:158][372]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Game/UI/Lobby/GameSettings.GameSettings
+[2020.12.20-11.05.31:388][698]LogSlate: Window 'GameSettings' being destroyed
+[2020.12.20-11.05.49:564][817]BlueprintLog: New page: Compile GameSettings
+[2020.12.20-11.05.49:622][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.12.20-11.05.49:911][845]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/GameSettingsDB7F5F21480B21CD6DF7EE958CD2F6F9.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/GameSettings.uasset'
+[2020.12.20-11.05.49:921][845]AssetCheck: New page: Asset Save: GameSettings
+[2020.12.20-11.05.49:921][845]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/GameSettings.GameSettings
+[2020.12.20-11.06.56:614][796]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-11.06.56:658][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.12.20-11.06.57:023][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-11.06.57:056][831]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenu66F501244A19A3CE9FB6AABE9B0A6FBA.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-11.06.57:068][831]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-11.06.57:068][831]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-11.07.45:199][838]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UWidget::IsVisible' [Element not found.]
+[2020.12.20-11.08.58:004][152]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-11.08.58:059][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.12.20-11.08.58:388][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-11.08.58:424][183]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenuFA52B93D4E612C96EA09DBB00C59164F.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-11.08.58:435][183]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-11.08.58:435][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-11.09.15:342][151]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-11.09.15:399][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.12.20-11.13.13:011][422]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.20-11.14.38:689][158]BlueprintLog: New page: Compile LobbyMenu
+[2020.12.20-11.14.38:737][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.12.20-11.14.39:057][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2020.12.20-11.14.39:099][188]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyMenuF93E3701485E43CADB3A5485FD84889F.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/UI/Lobby/LobbyMenu.uasset'
+[2020.12.20-11.14.39:113][188]AssetCheck: New page: Asset Save: LobbyMenu
+[2020.12.20-11.14.39:113][188]LogContentValidation: Display: Validating WidgetBlueprint /Game/Game/UI/Lobby/LobbyMenu.LobbyMenu
+[2020.12.20-11.15.38:795][ 16]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.15.38:795][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.15.38:808][ 16]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.15.38:808][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.15.50:580][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-11.16.33:323][408]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-11.16.33:400][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.12.20-11.16.33:805][439]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPC7DF8898947370578B3BBBAB5A4E02DB7.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-11.16.33:814][439]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-11.16.33:814][439]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-11.17.01:902][744]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPC10653C1B4566F6D67F3205BC60CD9184.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-11.17.01:913][744]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-11.17.01:913][744]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-11.17.02:580][816]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.17.02:580][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.17.06:193][238]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.17.06:193][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.17.06:204][238]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.17.06:204][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.19.56:800][483]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.20-11.20.53:071][806]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.20.53:129][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.20-11.20.53:553][850]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMAE896A314CF10A2BE518DCB009B70A92.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.20.53:562][850]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.20.53:562][850]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.21.21:217][ 96]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Game/Levels/MainMenu.MainMenu_C
+[2020.12.20-11.21.21:217][ 96]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Game/Levels/MainMenu.MainMenu_C
+[2020.12.20-11.21.57:887][375]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.21.57:926][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.12.20-11.21.58:287][409]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMEDD2BD4E4D0E430DE35A8A865E583392.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.21.58:299][409]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.21.58:299][409]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.24.00:622][465]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.24.00:661][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.12.20-11.24.01:492][556]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMABF3648746F001A6D27B9D85993467C4.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.24.01:503][556]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.24.01:503][556]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.24.28:353][655]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.24.28:394][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.12.20-11.24.28:861][700]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMD2EB61D944C169FA0F1A7CBAF4A88B3B.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.24.28:871][700]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.24.28:871][700]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.25.23:997][208]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.25.24:039][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.12.20-11.25.24:326][235]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMC9E415D84A2BB3A15C13EB84C24FCA39.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.25.24:335][235]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.25.24:335][235]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.27.44:209][818]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.20-11.30.22:081][380]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.30.22:127][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.12.20-11.30.22:698][436]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM3DDB65E54CB014D4C4263694EAD8600C.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.30.22:711][436]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.30.22:711][436]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.31.27:390][ 98]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Game/Levels/MainMenu.MainMenu_C
+[2020.12.20-11.31.27:392][ 98]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/Game/UI/MainMenu/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/Game/Levels/MainMenu.MainMenu_C
+[2020.12.20-11.31.52:439][ 21]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.31.52:483][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.12.20-11.31.54:000][193]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM317968584FC9F9AD78EC838CD1D68D5A.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.31.54:012][193]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.31.54:012][193]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.32.50:522][838]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.32.50:567][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.12.20-11.32.50:951][873]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM117A744E42AD811157A19DBB94897243.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.32.50:960][873]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.32.50:960][873]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.35.37:989][697]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.35.38:037][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.12.20-11.35.38:403][729]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM435F560049604895B630A19EE917D479.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.35.38:415][729]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.35.38:415][729]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.35.57:715][986]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.35.57:763][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.12.20-11.35.58:104][ 16]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM1F7900FB4D7B8527D1777E90DF6C8ACA.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.35.58:115][ 16]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.35.58:115][ 16]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.36.00:974][343]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-11.36.11:232][518]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-11.36.11:293][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.12.20-11.36.11:671][549]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPC072682D247754111B483478F2949FFE4.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-11.36.11:682][549]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-11.36.11:682][549]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-11.38.20:238][695]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.38.20:304][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.12.20-11.38.20:641][721]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM7E032AE346B11028057D90BE34CB4ECB.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.38.20:655][721]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.38.20:655][721]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.39.10:498][445]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Game/Blueprints/Materials/M_CharacterWhite.M_CharacterWhite
+[2020.12.20-11.39.10:511][445]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0010 seconds. Added 3 classes and 0 folders.
+[2020.12.20-11.39.11:423][445]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2020.12.20-11.39.14:076][721]LogSlate: Window 'M_CharacterWhite' being destroyed
+[2020.12.20-11.39.41:565][996]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.20-11.39.44:545][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.12.20-11.39.44:556][319]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.20-11.39.45:132][319]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2020.12.20-11.39.45:132][319]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2020.12.20-11.39.46:143][319]TextureStreamingBuild: Display: Compiling optional shaders took 1.597 seconds.
+[2020.12.20-11.39.46:186][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.12.20-11.39.46:196][319]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/M_CharacterWhite0C9F50994E163F7309FA1BBE240F2829.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Materials/M_CharacterWhite.uasset'
+[2020.12.20-11.39.46:230][319]AssetCheck: New page: Asset Save: M_CharacterWhite
+[2020.12.20-11.39.46:230][319]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/Blueprints/Materials/M_CharacterWhite.M_CharacterWhite
+[2020.12.20-11.39.46:953][403]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.39.46:953][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.39.48:799][615]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.39.48:869][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.12.20-11.39.49:555][681]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM9A20A3CE4B5CD699DDEB8190F8DAC51A.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.39.49:566][681]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.39.49:566][681]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.39.54:707][281]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/M_CharacterGrayB78B50B84244ABA8177588B6BFE03A2E.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Materials/M_CharacterGray.uasset'
+[2020.12.20-11.39.54:783][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.12.20-11.39.54:816][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.12.20-11.39.54:838][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.20-11.39.54:888][281]AssetCheck: New page: Asset Save: M_CharacterGray
+[2020.12.20-11.39.54:888][281]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Game/Blueprints/Materials/M_CharacterGray.M_CharacterGray
+[2020.12.20-11.40.00:011][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/Characters/WhiteCharacter.WhiteCharacter
+[2020.12.20-11.40.04:074][276]LogSlate: Window 'WhiteCharacter' being destroyed
+[2020.12.20-11.40.04:091][276]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.40.04:091][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.40.04:159][276]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/Characters/WhiteCharacter.WhiteCharacter
+[2020.12.20-11.40.06:897][547]LogSlate: Window 'WhiteCharacter' being destroyed
+[2020.12.20-11.40.17:068][635]BlueprintLog: New page: Compile WhiteCharacter
+[2020.12.20-11.40.17:137][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.12.20-11.40.17:530][674]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/WhiteCharacterEE3AA37D413BB1BB81AD81AF4739F243.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Characters/WhiteCharacter.uasset'
+[2020.12.20-11.40.17:541][674]AssetCheck: New page: Asset Save: WhiteCharacter
+[2020.12.20-11.40.17:541][674]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Characters/WhiteCharacter.WhiteCharacter
+[2020.12.20-11.40.18:565][780]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.40.18:565][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.40.27:693][857]LogMetaData: Removing '/Game/Game/Blueprints/Characters/GrayCharacter.GrayCharacter_C' ref from Metadata '/Game/Game/Blueprints/Characters/WhiteCharacter.PackageMetaData'
+[2020.12.20-11.40.27:693][857]LogMetaData: Removing '/Game/Game/Blueprints/Characters/GrayCharacter.SKEL_GrayCharacter_C' ref from Metadata '/Game/Game/Blueprints/Characters/WhiteCharacter.PackageMetaData'
+[2020.12.20-11.40.27:693][857]LogMetaData: Removing '/Game/Game/Blueprints/Characters/GrayCharacter.SKEL_GrayCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Game/Blueprints/Characters/WhiteCharacter.PackageMetaData'
+[2020.12.20-11.40.27:693][857]LogMetaData: Removing '/Game/Game/Blueprints/Characters/GrayCharacter.SKEL_GrayCharacter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Game/Blueprints/Characters/WhiteCharacter.PackageMetaData'
+[2020.12.20-11.40.27:693][857]LogMetaData: Removing '/Game/Game/Blueprints/Characters/GrayCharacter.SKEL_GrayCharacter_C:ReceiveTick' ref from Metadata '/Game/Game/Blueprints/Characters/WhiteCharacter.PackageMetaData'
+[2020.12.20-11.40.27:693][857]LogMetaData: Removing '/Game/Game/Blueprints/Characters/GrayCharacter.SKEL_GrayCharacter_C:UserConstructionScript' ref from Metadata '/Game/Game/Blueprints/Characters/WhiteCharacter.PackageMetaData'
+[2020.12.20-11.40.27:731][857]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/GrayCharacterEB67351A45E2F2502D36F491370DE655.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Characters/GrayCharacter.uasset'
+[2020.12.20-11.40.27:898][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.12.20-11.40.27:928][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.12.20-11.40.27:951][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.12.20-11.40.27:993][857]AssetCheck: New page: Asset Save: GrayCharacter
+[2020.12.20-11.40.27:993][857]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Characters/GrayCharacter.GrayCharacter
+[2020.12.20-11.40.38:614][ 75]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.40.38:677][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.20-11.40.39:106][110]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMF8897E1D47F38EDE0070709E71C5542E.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.40.39:119][110]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.40.39:119][110]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.41.21:458][279]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.41.21:512][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.12.20-11.41.21:861][306]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM02344B13461F0E80CEDBD49B9C1AC23A.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.41.21:874][306]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.41.21:874][306]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.42.09:740][922]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.20-11.44.06:934][752]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.44.06:989][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.12.20-11.44.07:379][784]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM6535661841FA7E9FD702E2AFBAED4799.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.44.07:391][784]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.44.07:391][784]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.44.48:008][515]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.44.48:063][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.12.20-11.44.49:062][619]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM855BCAD247F42D32C1BB23BF9B15C20C.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.44.49:076][619]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.44.49:076][619]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.45.50:143][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.12.20-11.45.50:144][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Levels/MainMenu' took 0.027
+[2020.12.20-11.45.50:145][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Blueprints/Lobby/LobbyGM] ([1] browsable assets)...
+[2020.12.20-11.45.50:145][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Blueprints/Lobby/LobbyGM]
+[2020.12.20-11.45.50:178][ 14]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM_Auto24678F32F47B824B085D9E2B213B53901.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/Autosaves/Game/Game/Blueprints/Lobby/LobbyGM_Auto2.uasset'
+[2020.12.20-11.45.50:179][ 14]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.12.20-11.51.17:869][552]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.51.17:942][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.12.20-11.51.18:368][587]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM3BD25FCC4B1983679C2B3181BD34B89A.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.51.18:383][587]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.51.18:383][587]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.51.32:643][264]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.51.32:704][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.12.20-11.51.33:185][295]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM9B8C06E3468074F9090978BBE584853D.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.51.33:198][295]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.51.33:198][295]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.52.36:077][387]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.52.36:132][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.12.20-11.52.56:422][202]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-11.52.56:480][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.12.20-11.52.57:338][285]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM38B28F7D47A05F8334D58FBE8CF77EFE.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-11.52.57:349][285]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-11.52.57:349][285]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-11.53.47:889][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.12.20-11.56.04:900][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.12.20-11.56.04:953][676]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game/Levels/Lobby.Lobby
+[2020.12.20-11.56.04:953][676]Cmd: MAP LOAD FILE="../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Levels/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.20-11.56.04:953][676]LightingResults: New page: Lighting Build
+[2020.12.20-11.56.04:955][676]LoadErrors: New page: Loading map: Lobby.umap
+[2020.12.20-11.56.04:978][676]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.20-11.56.04:980][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.20-11.56.04:980][676]MapCheck: New page: Map Check
+[2020.12.20-11.56.04:980][676]LightingResults: New page: Lighting Build
+[2020.12.20-11.56.05:004][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.20-11.56.05:010][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.20-11.56.05:011][676]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2020.12.20-11.56.05:109][676]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.20-11.56.05:109][676]LogAIModule: Creating AISystem for world Lobby
+[2020.12.20-11.56.05:135][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.12.20-11.56.05:149][676]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.20-11.56.05:149][676]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2020.12.20-11.56.05:149][676]LogFileHelpers: Loading map 'Lobby' took 0.196
+[2020.12.20-11.57.30:015][416]LogTemp: Repeating last play command: Standalone Game
+[2020.12.20-11.57.30:047][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.12.20-12.01.12:610][774]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-12.01.12:683][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.12.20-12.01.13:045][796]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMFC79021B4142CFFE412E54928DC7ED46.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-12.01.13:064][796]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-12.01.13:064][796]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-12.01.15:967][117]LogTemp: Repeating last play command: Standalone Game
+[2020.12.20-12.01.16:001][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.12.20-12.01.28:717][309]LogTemp: Repeating last play command: Standalone Game
+[2020.12.20-12.01.28:750][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.12.20-12.01.48:735][900]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-12.01.48:787][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.12.20-12.01.49:686][991]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM84095F0E4E2B81A6C14E72A164A509F8.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-12.01.49:699][991]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-12.01.49:699][991]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-12.01.50:643][ 93]LogTemp: Repeating last play command: Standalone Game
+[2020.12.20-12.01.50:676][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.12.20-12.02.30:594][346]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-12.02.30:646][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.12.20-12.02.31:136][385]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGM3548700742BCFF514886928FFEB0BB21.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-12.02.31:149][385]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-12.02.31:149][385]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-12.02.33:355][627]LogTemp: Repeating last play command: Standalone Game
+[2020.12.20-12.02.33:390][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.12.20-12.03.21:934][714]BlueprintLog: New page: Compile LobbyGM
+[2020.12.20-12.03.21:989][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.12.20-12.03.22:455][752]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyGMC7AA89BC4CC61EDC513A2B9B8772427D.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyGM.uasset'
+[2020.12.20-12.03.22:468][752]AssetCheck: New page: Asset Save: LobbyGM
+[2020.12.20-12.03.22:468][752]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyGM.LobbyGM
+[2020.12.20-12.04.30:249][324]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-12.04.30:320][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.12.20-12.04.30:712][363]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPC4ACF5EC443D5EEB6949FEB80AC0BB027.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-12.04.30:724][363]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-12.04.30:724][363]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-12.04.56:771][443]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-12.04.56:824][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.12.20-12.04.57:245][484]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPCB7C5709C4DB2369C3B51BA94160BB37F.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-12.04.57:256][484]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-12.04.57:256][484]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-12.05.15:892][684]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-12.05.15:944][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.12.20-12.05.16:362][723]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPCF11736114FC7C79DC2071AA9E0FCE357.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-12.05.16:372][723]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-12.05.16:372][723]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-12.05.29:841][301]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.20-12.06.15:143][612]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-12.06.15:196][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.12.20-12.06.15:498][638]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPC963199C7473B245BE8B98E879D06A13E.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-12.06.15:513][638]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-12.06.15:513][638]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-12.07.18:996][198]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-12.07.19:048][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.12.20-12.07.19:431][230]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPC1411FBA34FA53D8E1EE7FD8723673CDC.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-12.07.19:442][230]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-12.07.19:442][230]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-12.08.15:085][154]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-12.08.15:139][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.12.20-12.08.15:665][207]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPCA599983146D5FC31C1F61DBCC442A57B.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-12.08.15:679][207]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-12.08.15:679][207]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
+[2020.12.20-12.08.35:079][412]BlueprintLog: New page: Compile LobbyPC
+[2020.12.20-12.08.35:132][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.12.20-12.08.35:566][451]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Saved/LobbyPC813E4A9E4DB94A7350AFB483950EFDDD.tmp' to '../../../../../../Users/richa/Documents/GitHub/MultiplayerTemplate/BombingMultiplayer/Content/Game/Blueprints/Lobby/LobbyPC.uasset'
+[2020.12.20-12.08.35:580][451]AssetCheck: New page: Asset Save: LobbyPC
+[2020.12.20-12.08.35:580][451]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/Lobby/LobbyPC.LobbyPC
